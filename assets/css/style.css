@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #000;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -351,12 +351,12 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .blue {
   padding: 0 10px;
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: #3F51B5;
   height: 100%;
   left: 0;
   position: absolute;
@@ -548,7 +548,7 @@ small {
 
 /* main .teal-text */
 
-.teal-text {
+.blue-text {
   color: #003a80 !important;
 }
 
@@ -558,7 +558,7 @@ small {
 
 /* .teal */
 
-.teal {
+.blue {
   background-color: #003a80 !important;
 }
 
