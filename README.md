@@ -43,3 +43,12 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 #### Repo:
 ![Alt text](image-9.png)
 ![Alt text](image-10.png)
+
+
+## Activity 4:
+### Website - places travelled:
+![Alt text](image-12.png)
+
+### Repo:
+![Alt text](image-13.png)
+![Alt text](image-14.png)
