@@ -16,3 +16,18 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 >C logo: https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png
 >MongoDB logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png
 >React Native logo: https://camo.githubusercontent.com/402b277553c58de02d809e2edeacf5cf07cc31cf59fe01cfc6ef64e0616c4cdb/68747470733a2f2f746f70706e672e636f6d2f75706c6f6164732f707265766965772f72656163742d6e61746976652d7376672d7472616e73666f726d65722d616c6c6f77732d796f752d696d706f72742d7376672d61706572747572652d736369656e63652d696e6e6f7661746f72732d6c6f676f2d31313536323835313939347a716370776f7a7376792e706e67
+
+
+### Screenshots:
+#### Homepage:
+![Alt text](image-1.png)
+#### About + Experience:
+![Alt text](image-2.png)
+#### Experience:
+![Alt text](image-3.png)
+#### Projects:
+![Alt text](image-4.png)
+#### Skills:
+![Alt text](image-5.png)
+#### Education + Contact:
+![Alt text](image-6.png)
