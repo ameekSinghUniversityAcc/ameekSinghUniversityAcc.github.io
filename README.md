@@ -34,3 +34,12 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 #### Repo:
 ![Alt text](image-7.png)
 ![Alt text](image-8.png)
+
+## Activity 3:
+### Screenshots:
+#### Website - homepage:
+![Alt text](image-11.png)
+
+#### Repo:
+![Alt text](image-9.png)
+![Alt text](image-10.png)
